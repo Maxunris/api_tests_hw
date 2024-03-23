@@ -1,5 +1,3 @@
-import resource
-
 import requests
 from .conftest import USER_URL
 
